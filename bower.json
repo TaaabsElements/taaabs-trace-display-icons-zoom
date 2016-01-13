@@ -1,0 +1,29 @@
+{
+  "name": "taaabs-trace-display-icons-zoom",
+  "version": "1.0.0",
+  "description": "`<taaabs-trace-display-icons-zoom>`.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-trace-display-icons-zoom.git"
+  },
+  "main": "taaabs-trace-display-icons-zoom.html",
+  "license": "https://github.com/TaaabsElements/taaabs-trace-display-icons-zoom/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "taaabs-lazy-loading-behavior": "https://github.com/TaaabsElements/taaabs-lazy-loading-behavior.git",
+    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git",
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
