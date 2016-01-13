@@ -19,7 +19,7 @@
   "dependencies": {
     "polymer": "polymer/polymer#^1.0.0",
     "taaabs-lazy-loading-behavior": "https://github.com/TaaabsElements/taaabs-lazy-loading-behavior.git",
-    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git",
+    "samotracesjs": "https://github.com/liris-tweak/samotraces.js.git"
   },
   "devDependencies": {
     "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
